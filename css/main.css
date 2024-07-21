@@ -1,0 +1,15 @@
+.header{
+    text-align: center;
+}
+.child{
+    float: left;
+    width: 33%;
+    text-align: center;
+}
+.p2{
+    text-align: center;
+    
+}
+.clearfix{
+    clear: left;
+}
